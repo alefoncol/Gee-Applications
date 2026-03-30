@@ -1,6 +1,6 @@
 # GEE Applications
 
-Collection of scripts using Google Earth Engine (JavaScript/Python API) for geospatial analysis.
+Collection of scripts using Google Earth Engine (JavaScript/Python API) for environmental geospatial analysis.
 
 ## Scripts
 - [Temperature Anomaly](Temperature_Anomaly.py) — Temperature anomaly calculation and extreme detection
@@ -14,3 +14,4 @@ Collection of scripts using Google Earth Engine (JavaScript/Python API) for geos
 - netCDF4
 - xarray 
 - rioxarray# Gee-Applications
+# Gee-Applications
